@@ -8,6 +8,10 @@ Biases with Adversarial Learning*.
 - **Running on Kaggle:** [`docs/KAGGLE.md`](docs/KAGGLE.md)
 - **Figures:** [`docs/figures/`](docs/figures)
 
+## Disclosure
+
+OpenCode was used as an AI coding assistant while completing this workshop. It helped implement and debug the experiment scripts, produce and interpret the results saved in `Debiasing/runs/`, write the Kaggle reproduction notes in [`docs/KAGGLE.md`](docs/KAGGLE.md), and draft the Q1–Q12 answers and lab report. All reported numbers come from the code and run outputs in this repository.
+
 ## Quick start
 
 ```bash
